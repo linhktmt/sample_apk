@@ -1,2 +1,2 @@
-# sample_apk
-Demo apk create with python
+# SAMPLE-KIVYMD-APP
+The sample kivy and kivymd app to apk conversion.
